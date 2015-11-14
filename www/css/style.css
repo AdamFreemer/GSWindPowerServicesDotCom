@@ -18,6 +18,10 @@
 @import url("font-awesome.css");			/* Font Awesome*/
 @import url("font-awesome-ie7.css");		/* Font Awesome*/
 
+.stock-spacer {
+	margin-top: 20px;
+}
+
 .clear {
 	clear:both;
 }
@@ -1917,6 +1921,11 @@ a.buy:hover {
 	padding: 0px 10px 0px 10px;
 	margin: 0px 0 0 0px;
 	border-bottom: 1px solid #eee;
+}
+
+.post-content-no-bottom {
+	padding: 0px 10px 0px 10px;
+	margin: 0px 0 0 0px;
 }
 	
 .post .info {
